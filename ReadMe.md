@@ -4,7 +4,7 @@ ReadMe :
 
 Once executed, the resulting dataset maybe found at ./coursera R/data prep/tidydata.txt
 
-For futher details, refer to CookBook.md
+For futher details, refer to CodeBook.md
 
 References:
 
